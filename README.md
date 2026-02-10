@@ -24,7 +24,7 @@ Currently the app is very basic. It has 10 preset temperature units. Under 40 C,
 
 **Download Precompiled Releases**
 
-All releases can be found on the project release page: https://github.com/djsubtronic/ClevoFanControl/releases
+All releases can be found on the project release page: https://github.com/Unity-Billal-mesloub/ClevoFanControl/releases
 
 **Installation**
 
