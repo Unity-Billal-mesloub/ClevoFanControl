@@ -28,5 +28,5 @@ All releases can be found on the project release page: https://github.com/djsubt
 
 **Installation**
 
-1. Download and install the NTPort driver from here: https://github.com/djsubtronic/ClevoFanControl/blob/master/ClevoFanControl/NTPortDrvSetup.exe
+1. Download and install the NTPort driver from here: https://github.com/Unity-Billal-mesloub/ClevoFanControl/blob/main/ClevoFanControl/NTPortDrvSetup.exe
 2. Download the latest release from the project release page, extract to a folder of your choice. The app will start minimised in the notification area.
